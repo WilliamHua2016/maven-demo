@@ -1,0 +1,9 @@
+package org.william;
+
+public class MavenTest {
+	
+	public static void main(String[] args) {
+		System.out.println("William is studing maven now!! ");
+	}
+
+}
